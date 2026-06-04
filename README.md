@@ -2,6 +2,8 @@
 
 This is the official repository for the TransReID-SSL-based implementation of **Robust Mixed-Degradation Person Re-Identification via Structural Consistency Distillation**.
 
+Paper: [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320326009039)
+
 ## Method
 
 We propose **Mixed-Degradation Consistency Distillation (MDCD)** for robust person re-identification under mixed degradations such as fog, rain, snow, and brightness variation. MDCD contains two modules: **Structural Consistency Distillation (SCD)** for feature-level structural alignment, and **Clean Feature Restoration (CFR)** for preserving clean-domain discriminative knowledge with Fisher/EWC regularization.
@@ -10,7 +12,7 @@ We propose **Mixed-Degradation Consistency Distillation (MDCD)** for robust pers
 
 ## Prepare Datasets
 
-The mixed-degradation datasets used in this work are not included in this repository. If you need access to the datasets, please contact us.
+The mixed-degradation datasets used in this work are not included in this repository. If you need access to the datasets, please contact us at siyuanzhao@whut.edu.cn.
 
 After preparing the datasets, set the dataset path in the corresponding script or config file.
 

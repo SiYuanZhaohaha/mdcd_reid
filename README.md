@@ -64,6 +64,7 @@ title = {Robust mixed-degradation person Re-identification via structural consis
 journal = {Pattern Recognition},
 volume = {179},
 pages = {113938},
+year = {2026}
 }
 ```
 
